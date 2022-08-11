@@ -17,7 +17,10 @@ Aquest document detalla la missatgeria associada al servei de consulta de nivell
 
 Per a poder realitzar la integració cal conèixer prèviament la següent documentació:
 
-<ul><li>Document de Missatgeria Genèrica de la PCI del Consorci AOC.</li></ul>
+- [Document de Missatgeria Genèrica de la PCI del Consorci AOC.][PCI]
+
+[PCI]:https://github.com/ConsorciAOC/PCI
+
 
 ## 2 Transmissions de dades disponibles <a name="2"></a>
 
@@ -90,3 +93,10 @@ NIF | 33916710J | Grado I Nivel 2 |Reconocido Grado y nivel (DF1) | 01/01/2009 |
 NIF | 35269874H | Grado I Nivel 2 | Reconocido Grado y nivel (DF1) | 28/04/2010 | Firmada
 NIF | 24078125T | Grado I Nivel 2 | Reconocido Grado y nivel (DF1) | 29/04/2010 | Firmada
 NIF | 23428734Z | Grado I Nivel 2 | Reconocido Grado y nivel (DF1) | 29/04/2010 | Firmada
+
+L&#39;emissor final publica els següent [joc de proves a l&#39;entorn de pre-producció][proves] 
+
+[proves]: https://administracionelectronica.gob.es/ctt/svd/descargas#.YvOZNXbP2Ul
+![image](https://user-images.githubusercontent.com/32306731/137281698-9dfc2044-94f7-487f-a7d6-9a4e0707feb3.png) En cas de tindre problemes per accedir als jocs de proves, si us plau, obre un tiquet a través del [formulari][form]
+
+[form]:https://www.aoc.cat/portal-suport/peticio-integradors/idservei/integracio/
