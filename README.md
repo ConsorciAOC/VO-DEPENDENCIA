@@ -74,26 +74,6 @@ consulta. Així, cal informar l’element Funcionario del bloc de dades genèriq
 
 ## 4 Joc de proves <a name="4"></a>
 
-L’emissor final de les dades proporciona les següents dades vàlides per l’entorn de pre-producció:
-
-| _Tipus_ | _Documentació_ | _Grau i nivell_ | _Tipus_ | _Data resolució_ | _Estat_ |
-| --- | --- | --- | --- | --- | --- |
-NIF | 23362162G | Grado II Nivel 2 | Reconocido Grado y nivel | 06/04/2010 | Firmada
-NIF | 8217183L | Grado III Nivel 2 | Reconocido Grado y nivel | 06/07/2010 | Recurrida
-NIF | 8214853N | | Reconocimiento en trámite| | 
-NIF | 8217571Q | Grado III Nivel 2 |Reconocido Grado y nivel | 17/03/2011 | Firmada
-NIF | 80078671P | Grado I Nivel 2 | Reconocido Grado y nivel | 27/10/2011 | Firmada
-NIF | 76259751P | Grado III Nivel 2 | Reconocido Grado y nivel | 02/03/2011 | Firmada
-NIF | 08209236F | Grado III Nivel 2 |Reconocido Grado y nivel | 27/10/2011 | Firmada
-NIE | X2819703H | Grado III Nivel 2 | Reconocido Grado y nivel | 12/03/2012 | Firmada
-NIE | X5771569H | Grado III Nivel 2 |Reconocido Grado y nivel | 12/03/2012 | Firmada
-Pasaporte | A4508244702 | Grado III Nivel 2 | Reconocido Grado y nivel | 12/03/2012 | Firmada
-Pasaporte | A4512182100 | Grado III Nivel 2 | Reconocido Grado y nivel | 12/03/2012 | Firmada
-NIF | 33916710J | Grado I Nivel 2 |Reconocido Grado y nivel (DF1) | 01/01/2009 | Firmada
-NIF | 35269874H | Grado I Nivel 2 | Reconocido Grado y nivel (DF1) | 28/04/2010 | Firmada
-NIF | 24078125T | Grado I Nivel 2 | Reconocido Grado y nivel (DF1) | 29/04/2010 | Firmada
-NIF | 23428734Z | Grado I Nivel 2 | Reconocido Grado y nivel (DF1) | 29/04/2010 | Firmada
-
 L&#39;emissor final publica els següent [joc de proves a l&#39;entorn de pre-producció][proves] 
 
 [proves]: https://administracionelectronica.gob.es/ctt/svd/descargas#.YvOZNXbP2Ul
